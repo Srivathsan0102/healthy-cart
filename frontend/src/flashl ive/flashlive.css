@@ -1,0 +1,11 @@
+.flash {
+    flex-wrap: wrap;
+    justify-content: center;
+    background: #effbfc;
+    min-height: 4vw;
+}
+.flash .flash-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

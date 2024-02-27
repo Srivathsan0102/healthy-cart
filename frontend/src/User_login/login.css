@@ -1,0 +1,33 @@
+
+/* .header{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: flex-start;
+    float: left;
+} */
+form  input {
+    border:none;
+    border-bottom: 2px solid #00b5b7;
+}
+form  select {
+    border:none;
+    border-bottom: 2px solid #00b5b7;
+}
+form  input :focus{
+    outline: none;
+    border: none;
+}
+form .registration-form{
+    border:2px solid #00b5b7 !important;
+    box-shadow: 0 0 10px 10px #00b5b7;
+}
+.register{
+    border: 2px solid #00b5b7;
+}
+
+.custom-toast-container {
+    .Toastify__toast-container {
+      background-color: #FF0000; /* Set your desired background color */
+    }
+  }

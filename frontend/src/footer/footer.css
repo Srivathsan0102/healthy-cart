@@ -1,0 +1,160 @@
+.footer-section{
+    font-size:13px;
+    line-height:27px;
+}
+.footer_subscriber {
+    width: 100%;
+    font-size: 16px;
+    font-weight: 600;
+    color: #2a2420;
+    background-color: #f6f6f6;
+    padding: 20px;
+    border-radius: 8px;
+}
+#icon-boxs {
+    width: 74px;
+    height: 64px;
+}
+.newsletter {
+    position: relative;
+    margin: 0.8vw 0 0.4vw;
+}
+#email {
+    border-radius: 8px 0 0 8px;
+    border: 1px solid #e0e0e0;
+    height: 38px;
+    padding: 9px;
+    box-sizing: border-box;
+    width: 100%;
+}
+#Subscriber-button {
+    width: 25%;
+    max-width: 48px;
+    height: 38px;
+    box-sizing: border-box;
+    border-radius: 0 8px 8px 0;
+    border: none;
+    background-color: #00b5b7;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: .64px;
+    cursor: pointer;
+}
+.social-icons-box {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 20px;
+    padding-top: 10px;
+}
+.app {
+    padding-top: 20px;
+}
+.footer_subscriber .app .title {
+    color: #1c1c28;
+    font-size: 13px;
+    font-weight: 400;
+    text-transform: capitalize;
+}
+.payment img{
+    margin-left: 10px;
+}
+.logos {
+    margin-top: 10px;
+    display: flex;
+    gap: 1vw;
+}
+.android-store, .app-store {
+    width: 50%;
+}
+li{
+    list-style: none;
+    text-decoration: none;
+}
+ul a {
+    text-decoration: none !important;
+
+}
+.column1 {
+    float: left;
+    padding-right: 20px;
+}
+.column2 {
+    float: left;
+    padding-right: 20px;
+}
+.column3 {
+    float: left;
+    padding-right: 20px;
+}
+.column3 {
+    float: left;
+    padding-right: 20px;
+}
+.column5 {
+    width: 200px;
+    font-size: 13px;
+    line-height: 27px;
+    font-weight: 400;
+    letter-spacing: 0;
+    text-transform: none;
+}
+.footer_section {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    line-height: 27px;
+    color: #fff;
+}
+.bold-text li {
+    font-size: 13px;
+    line-height: 27px;
+    color: #fff;
+    font-weight: 400;
+    letter-spacing: 0;
+    text-transform: none;
+    opacity: 0.7;
+}
+.bold-text{
+    display: inline;
+    align-items: flex-start;
+}
+.icon {
+    margin-right: 5px;
+}
+.Contact-icon {
+    display: flex;
+    align-items: flex-start; 
+    justify-items: center;
+    padding:5px;
+}
+.policies {
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.copyright-section {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #fff;
+    border-top: 2px solid gainsboro;
+    padding-top: 10px;
+}
+.copyright-text{
+    width:30%;
+    font-size: 13px;
+    margin:0px;
+}
+.policies a{
+    text-decoration: none;
+    color:#fff !important;
+}
+#payment-img{
+    width: 50px;
+    height: 20px;
+}

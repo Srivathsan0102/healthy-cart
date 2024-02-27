@@ -1,0 +1,67 @@
+#search{
+    width: 48vw;
+    height: 4vw;
+    padding: 0.7vw 3.5vw;
+    border-radius: 0.6vw;
+    border: none;
+    font-size: 1.2vw;
+    background-color: whitesmoke;
+    background-position: 0.8vw 0.8vw;
+    background-repeat: no-repeat;
+    background-image: url(https://cdn-icons-png.flaticon.com/128/54/54481.png);
+    background-size: 1.5vw 1.5vw;
+    background-position-y: center;
+    background-position-x: 0.7vwa;
+}
+.login-cart{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.login-button{
+    padding: 0.95vw 2.3vw !important;
+    height:3.3vw !important;
+    background-color: #00b5b7 !important;
+    color: #fff !important;
+    font-weight: 600 !important;
+    font-size: 1.2vw;
+    border: none !important;
+    border-radius: 0.3vw !important;
+    cursor: pointer !important;
+}   
+.cart-hk{
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+#cart{
+    margin-top: 1vw;
+    margin-left: 3vw;
+    margin-bottom: 1.2vw;
+    width: 2.2vw;
+    height: 2.3vw;
+    float: right;
+}
+#mainimg{
+    width: 16.6vw;
+    height: 3.8vw;
+}
+@media(width<992px){
+    #mainimg{
+        width:12vw;
+    }
+}
+.count {
+    border: 1px solid #ffff;
+    width: 1.6vw;
+    height: 1.6vw;
+    color: #ccc;
+    background-color: orangered;
+    margin-top: -2.3vw;
+    margin-right: 1.6vw;
+    margin-left: -0.8vw;
+}
+.header{
+    margin-bottom:1.6vw;
+    border-bottom: 2px solid #dbde;
+}
